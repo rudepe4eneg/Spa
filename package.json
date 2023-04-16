@@ -1,0 +1,12 @@
+{
+  "name": "js-practice",
+  "description": "Products catalog",
+  "private": true,
+  "scripts": {},
+  "author": "DenZay",
+  "dependencies": {
+    "navigo": "^8.11.1",
+    "parcel": "^2.8.3",
+    "redom": "^3.29.1"
+  }
+}
