@@ -5,6 +5,7 @@
   "scripts": {},
   "author": "DenZay",
   "dependencies": {
+    "card-validator": "^8.1.1",
     "navigo": "^8.11.1",
     "parcel": "^2.8.3",
     "redom": "^3.29.1"
