@@ -23,7 +23,7 @@
 }
 
 .card-front {
-  background: #d6d619;
+  background: #d8d8d8;
 }
 
 .card-back-line {
@@ -70,8 +70,8 @@
   top: 145px;
 }
 
-#card-to-year, #card-to-month {
-  width: 60px;
+#card-to-my {
+  width: 110px;
   text-align: center;
   background: #f1f1f1;
   border: none;
@@ -81,10 +81,6 @@
   position: absolute;
   bottom: 40px;
   left: 5%;
-}
-
-#card-to-year {
-  left: 20%;
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */

@@ -2,12 +2,24 @@
   "name": "js-practice",
   "description": "Products catalog",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "build": "webpack"
+  },
   "author": "DenZay",
   "dependencies": {
+    "card-info": "^1.2.4",
     "card-validator": "^8.1.1",
     "navigo": "^8.11.1",
     "parcel": "^2.8.3",
     "redom": "^3.29.1"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.1",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.2.2",
+    "style-loader": "^3.3.2",
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
   }
 }
